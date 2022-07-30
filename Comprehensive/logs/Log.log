@@ -1,0 +1,25 @@
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] DEBUG PacePage.java  - Clicked on search
+[main] DEBUG PacePage.java  - type Pace in search box
+[main] DEBUG PacePage.java  - Pace present in top list
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] DEBUG OurcommitmentPage.java  - Clicked on Our commitment
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] DEBUG HowtowashclothesPage.java  - Clicked on How to wash clothes
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
