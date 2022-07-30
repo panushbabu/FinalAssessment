@@ -1,0 +1,4 @@
+url= https://tide.com/en-us/
+item_name=Pacs
+driver_path=./driver/chromedriver.exe
+ExtentReportPath=/Extentreport
